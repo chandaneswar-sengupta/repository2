@@ -2,6 +2,6 @@ this is again master file
 this is from branch1
 
 
-
+this is a new line after master branch
 
 this is branch2
